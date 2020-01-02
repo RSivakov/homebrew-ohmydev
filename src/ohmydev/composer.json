@@ -18,6 +18,7 @@
     "require": {
         "php": "^7.2",
         "laravel-zero/framework": "^6.0",
+        "nunomaduro/laravel-console-dusk": "^1.5",
         "nunomaduro/laravel-console-menu": "^2.1"
     },
     "require-dev": {
